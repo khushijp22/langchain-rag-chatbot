@@ -77,3 +77,12 @@ Handles reactive state variables:
 These automatically update UI components in Panel.
 
 
+### Conversation Tab
+![Conversation UI](images/conversation.jpeg)
+
+### Database View
+![Database Query](images/db.jpeg)
+
+### Configuration Tab
+![Configuration Tab](images/configure.jpeg)
+
